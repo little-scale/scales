@@ -1,5 +1,5 @@
 # scales
-In Arduino, force a MIDI pitch values to fit either within a major or minor scale. 
+In Arduino, force a MIDI pitch value to fit either within a major or minor scale. 
 
 Simply use either scales.major(i) or scales.minor(i) where i is the MIDI pitch number
  
